@@ -22,5 +22,12 @@
   "dependencies": {
     "com.unity.render-pipelines.universal": "11.0.0",
 	"com.unity.inputsystem" : "1.7.0"
-  }
+  },
+  "samples": [
+	{
+		"displayName": "Animation Base locomotion sample",
+		"description": "Contains sample scene humanoid animation",
+		"path": "Samples~"
+	}
+    ]
 }
