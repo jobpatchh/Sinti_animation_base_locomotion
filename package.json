@@ -25,9 +25,9 @@
   },
   "samples": [
 	{
-		"displayName": "Animation Base locomotion sample",
+		"displayName": "Animation Base Locomotion",
 		"description": "Contains sample scene humanoid animation",
-		"path": "Samples~/Sinti/Animation Base Locomotion"
+		"path": "Samples~/Animation Base Locomotion"
 	}
     ]
 }
